@@ -6,6 +6,8 @@
 UC San Diego Course on Coursera
 ### Git
 ## Configuration
+### Jupyter
+### Colab
 ## Dacon
 ## Machine_Learning
 ## Preprocess
