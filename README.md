@@ -4,6 +4,8 @@
 ### Algorithmns
 #### Algorithmic Toolbox
 UC San Diego Course on Coursera
+#### Algorithm
+Khan Academy
 ### Git
 ## Configuration
 ### Jupyter
