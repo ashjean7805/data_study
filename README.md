@@ -2,10 +2,10 @@
 ----------
 ## Computer_Science
 ### Algorithmns
-#### Algorithmic Toolbox
-UC San Diego Course on Coursera
+#### Algorithmic_Toolbox
+UC_San_Diego_Course_on_Coursera
 #### Algorithm
-Khan Academy
+Khan_cademy
 ### Git
 ## Configuration
 ### Jupyter
@@ -14,3 +14,4 @@ Khan Academy
 ## Machine_Learning
 ## Preprocess
 ## Time_Series
+## Code_Snippets
