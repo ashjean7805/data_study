@@ -5,7 +5,7 @@
 #### Algorithmic_Toolbox
 UC_San_Diego_Course_on_Coursera
 #### Algorithm
-Khan_cademy
+Khan_Academy
 ### Git
 ## Configuration
 ### Jupyter
