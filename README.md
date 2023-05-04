@@ -15,5 +15,6 @@ Khan_Academy
 ## Machine_Learning
 ### 머신러닝 탐구생활
 ## Preprocess
+## Statistics
 ## Time_Series
 ## Code_Snippets
