@@ -17,5 +17,7 @@ Khan_Academy
 ### 머신러닝 탐구생활
 ## Preprocess
 ## Statistics
+### Mathematical Statistics
+### Statistical Inference
 ## Time_Series
 ## Code_Snippets
