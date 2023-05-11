@@ -8,6 +8,8 @@ UC_San_Diego_Course_on_Coursera
 #### Algorithm
 Khan_Academy
 ### Git
+### Language
+#### Python
 [Pro-Git](https://git-scm.com/book/ko/v2)
 ## Configuration
 ### Jupyter
