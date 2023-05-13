@@ -1,8 +1,14 @@
 def majority_element_naive(elements):
+    n = len(elements)/2
+    ans = {}
     for e in elements:
-        if elements.count(e) > len(elements) / 2:
+        try:
+            ans[e] += 1
+        except:
+            ans[e] = 1
+    for answer in ans.values():
+        if (answer > n):
             return 1
-
     return 0
 
 
