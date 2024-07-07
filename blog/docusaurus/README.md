@@ -2,6 +2,8 @@
 # Installation
 node.js 설치
 - chocolatey 도 같이 설치하기
+docusaurus 설치
+- yarn으로 바꿔 설치하기 
 
 # Github Pages
 
@@ -13,8 +15,9 @@ node.js 설치
 ## Naming Rule
 ### 배포
 - gh-pages
+- main
 ### 기능 개발
-코드 완성되면 dev로 병합 후 배포
+코드 완성되면 dev로 병합 후 main에 병합
 - dev
     - 기능 개발 종합 브랜치
 - dev-${NAME}
